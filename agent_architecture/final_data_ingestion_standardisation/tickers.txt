@@ -1,0 +1,5 @@
+# This is a comment, lines starting with # will be ignored.
+# Add the tickers you want to process below, one per line.
+# List of bank tickers to be processed.
+# This file was generated from the user-provided list.
+BAC
